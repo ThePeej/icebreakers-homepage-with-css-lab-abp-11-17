@@ -16,3 +16,19 @@ nav ul {
   padding: 0px;
   margin: 40px 0 0 0;
 }
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+h3#header {
+  float: left;
+  font-size: 30px;
+}
+
