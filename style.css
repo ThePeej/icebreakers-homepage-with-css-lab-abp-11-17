@@ -32,3 +32,18 @@ h3#header {
   font-size: 30px;
 }
 
+#header a:hover {
+  text-decoration: underline;
+}
+
+main {
+  margin-top: 20px;
+}
+
+div.jumbotron {
+  border: 2px;
+  border-radius: 10px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
