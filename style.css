@@ -58,3 +58,24 @@ div.jumbotron {
   line-height: 40px;
 }
 
+div.questions {
+  margin: 0 20px 0 20px;
+}
+
+div.questions h4 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+div.questions a.btn {
+  border: 5px;
+  border-radius:5px;
+  text-decoration-color: #FFF;
+}
+
+footer {
+  border-top: 1px solid #CCC;
+  margin-top:80px;
+  padding-top: 20px;
+  color: #CCC;
+}
