@@ -87,7 +87,7 @@ div.questions p {
 div.questions a.btn {
   border: 5px;
   border-radius:5px;
-  text-decoration-color: #FFF;
+  color: #FFF;
 }
 
 footer {
